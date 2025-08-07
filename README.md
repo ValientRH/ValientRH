@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham Kumar.
-- 👀 I’m interested in Generative AI.
-- 🌱 I’m currently learning DSA, C++, Mern Stack Web Development.
-- 💞️ I’m looking to collaborate on new and exciting technologies.
+- 👀 I’m actively learning and using  Generative AI.
+- 🌱 I’m currently learning and contributing to the world of web development.
+- 💞️ I’m looking to collaborate and learn about new and exciting technologies.
 - 📫 Say hi to me at www.linkedin.com/in/shubhamk-vrh
 - ⚡ Fun fact: If you feed repetitive data into Gemini, it will become the best search engine.
 
